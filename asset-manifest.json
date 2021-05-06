@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://vadvoice.github.io/csb-8pfqx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vadvoice.github.io/csb-8pfqx/static/js/main.d288404a.chunk.js",
+    "main.js.map": "https://vadvoice.github.io/csb-8pfqx/static/js/main.d288404a.chunk.js.map",
+    "runtime-main.js": "https://vadvoice.github.io/csb-8pfqx/static/js/runtime-main.98e4a8f3.js",
+    "runtime-main.js.map": "https://vadvoice.github.io/csb-8pfqx/static/js/runtime-main.98e4a8f3.js.map",
+    "static/css/2.127885e4.chunk.css": "https://vadvoice.github.io/csb-8pfqx/static/css/2.127885e4.chunk.css",
+    "static/js/2.1d755f1d.chunk.js": "https://vadvoice.github.io/csb-8pfqx/static/js/2.1d755f1d.chunk.js",
+    "static/js/2.1d755f1d.chunk.js.map": "https://vadvoice.github.io/csb-8pfqx/static/js/2.1d755f1d.chunk.js.map",
+    "index.html": "https://vadvoice.github.io/csb-8pfqx/index.html",
+    "static/css/2.127885e4.chunk.css.map": "https://vadvoice.github.io/csb-8pfqx/static/css/2.127885e4.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vadvoice.github.io/csb-8pfqx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.1d755f1d.chunk.js.LICENSE.txt": "https://vadvoice.github.io/csb-8pfqx/static/js/2.1d755f1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e4a8f3.js",
+    "static/css/2.127885e4.chunk.css",
+    "static/js/2.1d755f1d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d288404a.chunk.js"
+  ]
+}
